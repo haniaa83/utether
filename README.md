@@ -1,5 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`]
-<img src="https://github.com/Arminkardan/utrialv2/blob/master/turing.png" /> style
+ This is a uservice project from Turing Research Team(TiraDev group).
+<img src="https://github.com/Arminkardan/utrialv2/blob/master/turing.png" /> 
 
 ## Getting Started
 
