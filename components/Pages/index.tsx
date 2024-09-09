@@ -56,7 +56,7 @@ const Page: PageEl = (props, state, refresh, getProps) => {
         <br-x/>
         <br-x/>
         <br-x/>
-          <div style={{marginRight:"38%" ,backgroundColor:"#000",color:"#fff", marginLeft:"38%" , paddingRight:"10px"}}>تهیه شده توسط گروه تیرادو</div>
+          <div style={{marginRight:"38%" ,backgroundColor:"#000",color:"#fff", marginLeft:"38%" , paddingRight:"10px",}}>تهیه شده توسط گروه تیرادو</div>
         </pre>
         
 
